@@ -90,10 +90,10 @@ To run SageHealthHub locally, follow these terminal commands:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/SageHealthHub.git
+git clone https://github.com/125Akash/SageHealth-Hub2.git
 
 # Navigate to the project directory
-cd SageHealthHub
+cd SageHealth-Hub2
 
 # Install dependencies for the server
 npm install
